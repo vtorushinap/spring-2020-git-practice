@@ -1,3 +1,7 @@
 New-York
 California
 Virginia
+Florida
+Colorado
+Distrcit of Columbia
+Ohio
